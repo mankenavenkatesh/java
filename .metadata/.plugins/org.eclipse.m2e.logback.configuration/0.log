@@ -18,3 +18,7 @@
 2017-05-15 07:06:45,294 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vmankena/Documents/MyGit/javaexperiments/algorithms/src/test/resources
 2017-05-15 07:07:34,516 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://apdpdnexus.corp.intuit.net/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.pom
 2017-05-15 07:07:34,713 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-05-15 07:14:00,173 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 07:14:00,173 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vmankena/Documents/MyGit/javaexperiments/algorithms/src/main/resources
+2017-05-15 07:14:00,174 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 07:14:00,175 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vmankena/Documents/MyGit/javaexperiments/algorithms/src/test/resources
